@@ -1,0 +1,14 @@
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/bin/Debug/netcoreapp3.1/Syntaxsugar
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/bin/Debug/netcoreapp3.1/Syntaxsugar.deps.json
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/bin/Debug/netcoreapp3.1/Syntaxsugar.runtimeconfig.json
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/bin/Debug/netcoreapp3.1/Syntaxsugar.runtimeconfig.dev.json
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/bin/Debug/netcoreapp3.1/Syntaxsugar.dll
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/bin/Debug/netcoreapp3.1/Syntaxsugar.pdb
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/obj/Debug/netcoreapp3.1/Syntaxsugar.csproj.AssemblyReference.cache
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/obj/Debug/netcoreapp3.1/Syntaxsugar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/obj/Debug/netcoreapp3.1/Syntaxsugar.AssemblyInfoInputs.cache
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/obj/Debug/netcoreapp3.1/Syntaxsugar.AssemblyInfo.cs
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/obj/Debug/netcoreapp3.1/Syntaxsugar.csproj.CoreCompileInputs.cache
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/obj/Debug/netcoreapp3.1/Syntaxsugar.dll
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/obj/Debug/netcoreapp3.1/Syntaxsugar.pdb
+/Users/deucey1tap/Desktop/repos/Syntax/SyntaxSugar/Syntaxsugar/Syntaxsugar/obj/Debug/netcoreapp3.1/Syntaxsugar.genruntimeconfig.cache
